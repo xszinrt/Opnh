@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق الجدولة</string>
+    <string name="calendar">التقويم</string>
+    <string name="events">الأحداث</string>
+    <string name="add_event">إضافة حدث</string>
+    <string name="edit_event">تعديل الحدث</string>
+    <string name="delete_event">حذف الحدث</string>
+    <string name="event_title">عنوان الحدث</string>
+    <string name="event_date">تاريخ الحدث</string>
+    <string name="event_time">وقت الحدث</string>
+    <string name="event_description">الوصف</string>
+    <string name="reminder">تذكير</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+</resources>
